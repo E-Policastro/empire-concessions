@@ -1,16 +1,8 @@
-* { 
-background-image: url("img_tree.gif");
+html {
+  font-size: 22px;
 }
 
-.llc {
-    text-align: center;
-    color: black;
-    background-color: red;
-    outline: 2px solid black;
-    margin: 25px;
-    padding: 25px;
-    width: auto;
-    font-family: fantasy;
-   
-    
+body {
+  background-color: #333;
+  color: whitesmoke;
 }
