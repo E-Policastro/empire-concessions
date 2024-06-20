@@ -1,8 +1,28 @@
 html {
-  font-size: 22px;
+	font-size: 22px;
 }
 
 body {
-  background-color: #333;
-  color: whitesmoke;
+	background-color: #333;
+	color: whitesmoke;
+	margin: 0;
+	width: 100vw;
+	height: 100vh;
+}
+
+.links {
+	text-align: center;
+	font-size: 24;
+}
+
+.llc {
+	text-align: center;
+	color: rgb(242, 17, 17);
+	font-family: cursive;
+	font-size: 60px;
+}
+
+.about {
+	color: red;
+	font-family: fantasy;
 }
